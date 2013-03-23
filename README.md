@@ -1,2 +1,2 @@
-sh
-==
+A few odd bash scripts
+----------------------
